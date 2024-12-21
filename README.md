@@ -6,6 +6,8 @@ The **Decentralized Prediction Markets for Course Popularity** is a smart contra
 
 ## Contract Address
 0x64d76C388A7afF1A449343fB37Be016649E64C44
+![image](https://github.com/user-attachments/assets/e71dd502-4144-4fb8-aa2b-cc9d2ddb0a0e)
+
 
 ## Project Vision
 The vision of this project is to create a decentralized, transparent prediction market for university courses. It aims to engage students in predicting the popularity of different courses, helping them make informed decisions while offering rewards for accurate predictions.
